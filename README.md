@@ -1,1 +1,1 @@
-# turing_machine
+The Live Coding Turing machine is a project physicalising a turing process for live electronic music. Initiated by John Bowers, hardware and software development of the machine, Tom Schofield
